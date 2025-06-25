@@ -1,0 +1,9 @@
+data/obj_train_data/20240527_155351.jpg
+data/obj_train_data/20240527_155359.jpg
+data/obj_train_data/20240527_155411.jpg
+data/obj_train_data/20240527_155414.jpg
+data/obj_train_data/20240527_155426.jpg
+data/obj_train_data/20240527_155436.jpg
+data/obj_train_data/20240527_155943.jpg
+data/obj_train_data/20240527_155949.jpg
+data/obj_train_data/20240527_155957.jpg

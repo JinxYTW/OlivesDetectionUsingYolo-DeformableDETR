@@ -1,0 +1,5 @@
+data/obj_train_data/IMG_20231007_153335.jpg
+data/obj_train_data/IMG_20231007_153345.jpg
+data/obj_train_data/IMG_20231007_164054.jpg
+data/obj_train_data/IMG_20231027_131101.jpg
+data/obj_train_data/IMG_20231027_131106.jpg
