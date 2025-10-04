@@ -8,13 +8,14 @@ The goal was to develop an **Artificial Intelligence model for olive detection o
 - **Deformable DETR**: a Transformer-based model  
 
 ## 📂 Repository Structure
+```text
 ├── Datasets/ # Datasets used for training and validation
 ├── YOLO/ # Notebooks for training and evaluating YOLO
 ├── DeformableDETR/ # Notebooks for training and evaluating Deformable DETR
 ├── Metrics/ # Notebooks for performance evaluation (mAP, IoU, etc.)
 ├── Docs/ # Bibliographic references and related documents
 └── README.md # Project documentation
-
+```
 ## ⚙️ Requirements
 This project is mainly based on **Jupyter notebooks**.  
 Before running, install Jupyter and the required libraries:  
